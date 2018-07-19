@@ -26,7 +26,7 @@ After your database is created, your program should be able to work; however, if
 
 ## Running the tests
 
-Test your application on localhost.
+Test your application on localhost. 
 ```
 python your_main.py
 ```
@@ -41,6 +41,7 @@ Also, if you are trying to use command line version, you can enter the command b
 ```
 curl -d "url=http://www.example.com/" "http:/127.0.0.1:5000/"
 ```
+P.S. The web UI version of application.py is on master; on the other hand, the command line version of application.py is on the branch.
 
 ## Deployment
 
