@@ -63,4 +63,5 @@ P.S. Remember to enter a valid website, and the scheme is essential too. (Like h
 
 * Huge thanks to [narenaryan](https://github.com/narenaryan/Pyster) and his/her [blog](https://impythonist.wordpress.com/2015/10/31/building-your-own-url-shortening-service-with-python-and-flask/), most codes are based on his/her program.
 * Also, to start on flask [TAIKER'S BLOG](https://blog.taiker.space/python-shi-yong-python-he-flask-she-ji-restful-api/) helps me a lot.
+* Thanks to [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md) for the readme template.
 * Last but not least, every information and problem I encounter can be found on Google, Flask, Sqlite3, AWS's documentations, which give me a big hand.
